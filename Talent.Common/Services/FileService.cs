@@ -25,22 +25,54 @@ namespace Talent.Common.Services
             _awsService = awsService;
         }
 
-        public async Task<string> GetFileURL(string id, FileType type)
+        //public async Task<string> GetFileURL(string id, FileType type)
+        public async Task<string> GetFileURL(string fileName, FileType type)
         {
             //Your code here;
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
+            if (!string.IsNullOrWhiteSpace(fileName) && type == FileType.ProfilePhoto)
+            {
+                string bucketName = "talent-photo";
+                string profilePhotoUrl = await _awsService.GetStaticUrl(fileName, bucketName);
+                return profilePhotoUrl;
+            }
+
+            return null;
         }
 
         public async Task<string> SaveFile(IFormFile file, FileType type)
         {
             //Your code here;
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
+            if (file != null && type == FileType.ProfilePhoto)
+            {
+                var uniqueFileName = $@"{DateTime.Now.Ticks}_" + file.FileName;
+                string bucketName = "talent-photo";
+                var stream = file.OpenReadStream();
+                if (await _awsService.PutFileToS3(uniqueFileName, stream, bucketName, true))
+                {
+                    return uniqueFileName;
+                };
+            }
+
+            return null;
         }
 
-        public async Task<bool> DeleteFile(string id, FileType type)
+        //public async Task<bool> DeleteFile(string id, FileType type)
+        public async Task<bool> DeleteFile(string fileName, FileType type)
         {
             //Your code here;
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
+            if (!string.IsNullOrWhiteSpace(fileName) && type == FileType.ProfilePhoto)
+            {
+                string bucketName = "talent-photo";
+                if (await _awsService.RemoveFileFromS3(fileName, bucketName))
+                {
+                    return true;
+                }
+            }
+
+            return false;
         }
 
 

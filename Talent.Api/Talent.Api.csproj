@@ -32,6 +32,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Talent.Common\Talent.Common.csproj" />
+    <ProjectReference Include="..\Talent.Services.Profile\Talent.Services.Profile.csproj" />
   </ItemGroup>
 
 </Project>

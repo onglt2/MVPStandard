@@ -3,8 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Talent.Common.Models;
+using Talent.Services.Profile.Models.Profile;
+
 
 namespace Talent.Api.Domain.Models
+
+
 {
     public class TalentProfileViewModel
     {
@@ -33,10 +37,16 @@ namespace Talent.Api.Domain.Models
         public string Summary { get; set; }
         public string Description { get; set; }
 
+        public List<AddLanguageViewModel> Languages { get; set; }
+
         public List<UserSkill> Skills { get; set; }
         public List<UserExperience> Experience { get; set; }
         public List<UserEducation> Education { get; set; }
         public List<UserCertification> Certifications { get; set; }
 
+        //public static implicit operator TalentProfileViewModel(TalentProfileViewModel v)
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }

@@ -158,6 +158,12 @@ namespace Talent.Services.Identity.Controllers
             }
         }
 
+        [HttpGet("test")]
+        public IActionResult GetTest()
+        {
+            return Content("test");
+        }
+
         #region ManageClient
         [HttpPost("addNewClient")]
         [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Roles = "recruiter")]

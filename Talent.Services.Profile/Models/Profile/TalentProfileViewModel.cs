@@ -40,6 +40,6 @@ namespace Talent.Services.Profile.Models.Profile
         public List<AddSkillViewModel> Skills { get; set; }
         public List<AddEducationViewModel> Education { get; set; }
         public List<AddCertificationViewModel> Certifications { get; set; }
-        public List<ExperienceViewModel> Experience { get; set; }
+        public List<AddExperienceViewModel> Experience { get; set; }
     }
 }

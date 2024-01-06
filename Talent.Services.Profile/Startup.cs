@@ -47,6 +47,13 @@ namespace Talent.Services.Profile
                     .AllowAnyHeader()
                     .AllowCredentials();
                 });
+                //options.AddPolicy("AllowWebAppAccess", builder =>
+                //{
+                //    builder.WithOrigins("http://localhost:61772")
+                //           .AllowAnyMethod()
+                //           .AllowAnyHeader();
+                //});
+
             });
             services.Configure<FormOptions>(x =>
             {
@@ -89,6 +96,7 @@ namespace Talent.Services.Profile
                 app.UseDeveloperExceptionPage();
             }
             app.UseCors("AllowWebAppAccess");
+            
             app.UseMvc();
         }
     }

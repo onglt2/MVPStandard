@@ -1,0 +1,20 @@
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.deps.json
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.dll
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.pdb
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.csproj.AssemblyReference.cache
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.AssemblyInfoInputs.cache
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.AssemblyInfo.cs
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.csproj.CoreCompileInputs.cache
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.dll
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.pdb
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.deps.json
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.dll
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Common\bin\Release\netcoreapp2.0\Talent.Common.pdb
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.csproj.AssemblyReference.cache
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.AssemblyInfoInputs.cache
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.AssemblyInfo.cs
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.csproj.CoreCompileInputs.cache
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.dll
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Common\obj\Release\netcoreapp2.0\Talent.Common.pdb

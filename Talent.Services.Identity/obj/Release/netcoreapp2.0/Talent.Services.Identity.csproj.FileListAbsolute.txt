@@ -1,0 +1,40 @@
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\bin\Release\netcoreapp2.0\appsettings.docker.Development.json
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\bin\Release\netcoreapp2.0\appsettings.docker.json
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\bin\Release\netcoreapp2.0\appsettings.json
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Services.Identity.deps.json
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Services.Identity.runtimeconfig.json
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Services.Identity.runtimeconfig.dev.json
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Services.Identity.dll
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Services.Identity.pdb
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Common.dll
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Common.pdb
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.csproj.AssemblyReference.cache
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.AssemblyInfoInputs.cache
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.AssemblyInfo.cs
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.csproj.CoreCompileInputs.cache
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.csproj.CopyComplete
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.dll
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.pdb
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.genruntimeconfig.cache
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\bin\Release\netcoreapp2.0\appsettings.Development.json
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\bin\Release\netcoreapp2.0\appsettings.docker.Development.json
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\bin\Release\netcoreapp2.0\appsettings.docker.json
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\bin\Release\netcoreapp2.0\appsettings.json
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Services.Identity.deps.json
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Services.Identity.runtimeconfig.json
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Services.Identity.runtimeconfig.dev.json
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Services.Identity.dll
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Services.Identity.pdb
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Common.dll
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\bin\Release\netcoreapp2.0\Talent.Common.pdb
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.csproj.AssemblyReference.cache
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.AssemblyInfoInputs.cache
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.AssemblyInfo.cs
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.csproj.CoreCompileInputs.cache
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.csproj.CopyComplete
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.dll
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.pdb
+C:\Users\ong_l\source\repos\MVPInternship\2ndSprint - Copy\Talent.Services.Identity\obj\Release\netcoreapp2.0\Talent.Services.Identity.genruntimeconfig.cache

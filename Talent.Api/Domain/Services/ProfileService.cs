@@ -69,6 +69,7 @@ namespace Talent.Api.Domain.Services
         public async Task<TalentProfileViewModel> GetTalentProfile(string Id)
         {
             var user = await _userRepository.GetByIdAsync(Id);
+            var lang = await _userLanguageRepository.GetByIdAsync(Id);
 
             var videoUrl = string.IsNullOrWhiteSpace(user.VideoName)
                            ? ""
@@ -87,6 +88,7 @@ namespace Talent.Api.Domain.Services
                 IsMobilePhoneVerified = user.IsMobilePhoneVerified,
                 Summary = user.Summary,
                 Description = user.Description,
+                //Languages = lang.Languages,
                 Nationality = user.Nationality,
                 Address = user.Address,
                 VisaStatus = user.VisaStatus,

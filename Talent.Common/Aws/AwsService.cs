@@ -18,7 +18,8 @@ namespace Talent.Common.Aws
     {
         private AwsOptions _options;
         private SessionAWSCredentials _sessionCredential;
-        private IAmazonS3 client;
+        //private IAmazonS3 client;
+        private AmazonS3Client client;
         public AwsService(IOptions<AwsOptions> options)
         {
             _options = options.Value;
@@ -173,7 +174,7 @@ namespace Talent.Common.Aws
             s3PutRequest.Headers.Expires = DateTime.Now.AddHours(24);
             try
             {
-                using (client = new AmazonS3Client(await GetTemporaryCredentials(), RegionEndpoint.APSoutheast2))
+                using (client = new AmazonS3Client(await GetTemporaryCredentials(), RegionEndpoint.APSoutheast2))                
                 {
                     PutObjectResponse s3PutResponse = await client.PutObjectAsync(s3PutRequest);
                     if (s3PutResponse.HttpStatusCode == HttpStatusCode.OK)
@@ -185,6 +186,7 @@ namespace Talent.Common.Aws
             }
             catch (Exception ex)
             {
+                Console.WriteLine("Exception occurred during S3 upload: " + ex.Message);
                 return false;
             }
         }

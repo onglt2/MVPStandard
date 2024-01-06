@@ -6,14 +6,19 @@
 
 const mergeCache = new WeakMap();
 
-const cachedMerge = (first, second) => {
+const cachedMerge = (first, ...args) => {
+	if (args.length === 0) return first;
+	if (args.length > 1) {
+		return cachedMerge(first, cachedMerge(...args));
+	}
+	const second = args[0];
 	let innerCache = mergeCache.get(first);
 	if (innerCache === undefined) {
 		innerCache = new WeakMap();
 		mergeCache.set(first, innerCache);
 	}
-	const prevMerge = innerCache.get(second);
-	if (prevMerge !== undefined) return prevMerge;
+	const cachedMerge = innerCache.get(second);
+	if (cachedMerge !== undefined) return cachedMerge;
 	const newMerge = Object.assign({}, first, second);
 	innerCache.set(second, newMerge);
 	return newMerge;

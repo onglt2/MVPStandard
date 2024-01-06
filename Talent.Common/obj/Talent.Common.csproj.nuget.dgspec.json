@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\choiw\\Desktop\\talent-competition\\Talent.Common\\Talent.Common.csproj": {}
+    "C:\\Users\\ong_l\\source\\repos\\MVPInternship\\2ndSprint - Copy\\Talent.Common\\Talent.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\choiw\\Desktop\\talent-competition\\Talent.Common\\Talent.Common.csproj": {
+    "C:\\Users\\ong_l\\source\\repos\\MVPInternship\\2ndSprint - Copy\\Talent.Common\\Talent.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\choiw\\Desktop\\talent-competition\\Talent.Common\\Talent.Common.csproj",
+        "projectUniqueName": "C:\\Users\\ong_l\\source\\repos\\MVPInternship\\2ndSprint - Copy\\Talent.Common\\Talent.Common.csproj",
         "projectName": "Talent.Common",
-        "projectPath": "C:\\Users\\choiw\\Desktop\\talent-competition\\Talent.Common\\Talent.Common.csproj",
-        "packagesPath": "C:\\Users\\choiw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\choiw\\Desktop\\talent-competition\\Talent.Common\\obj\\",
+        "projectPath": "C:\\Users\\ong_l\\source\\repos\\MVPInternship\\2ndSprint - Copy\\Talent.Common\\Talent.Common.csproj",
+        "packagesPath": "C:\\Users\\ong_l\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ong_l\\source\\repos\\MVPInternship\\2ndSprint - Copy\\Talent.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\choiw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ong_l\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp2.0": {
+            "targetAlias": "netcoreapp2.0",
             "projectReferences": {}
           }
         },
@@ -40,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
           "dependencies": {
             "AWSSDK.Core": {
               "target": "Package",
@@ -114,11 +116,12 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
